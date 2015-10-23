@@ -11,5 +11,5 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 
-JavaOne2014/.idea
-JavaOne2014/target
+JavaOne2015/.idea
+JavaOne2015/target
