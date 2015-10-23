@@ -1,14 +1,11 @@
-package net.nycjava.javaone2014;
+package net.nycjava.javaone2015;
 
 import java.io.IOException;
 import java.time.DayOfWeek;
 import java.time.LocalDate;
-import java.time.Month;
 import java.util.EnumSet;
 import java.util.Map;
 import java.util.Optional;
-import java.util.stream.Collectors;
-import java.util.stream.Stream;
 
 import static java.lang.String.format;
 import static java.lang.System.out;

@@ -1,4 +1,4 @@
-package net.nycjava.javaone2014;
+package net.nycjava.javaone2015;
 
 import static java.lang.String.format;
 
