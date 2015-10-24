@@ -1,4 +1,5 @@
 // run this by entering jjs Demo4.js
+// /Library/Java/JavaVirtualMachines/jdk1.8.0_40.jdk/Contents/Home/bin/jjs src/main/resources/net/nycjava/javaone2015/Demo4.js
 
 function addOne(i) { return i+1; }
 
